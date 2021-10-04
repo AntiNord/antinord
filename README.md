@@ -9,5 +9,5 @@
 - 💬 Ask me about anything privacy related
 - 📫 How to reach me: contact@nord.fail
 - 😄 Pronouns: attack helicopter
-- ⚡ Fun fact: I'm not an alcoholic I just like beer!
+- ⚡ Fun fact: Nord is a good VPN if you don't really want privacy.
 
