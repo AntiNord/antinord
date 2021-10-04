@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![banner](https://i.ibb.co/42YKh6z/standard.gif
+![banner](https://i.ibb.co/42YKh6z/standard.gif)
 
 - 🔭 I’m currently working on Nord Detector
 - 🌱 I’m currently learning C
