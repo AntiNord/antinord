@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![banner]https://i.ibb.co/ZL8BNvC/standard.gif)
+![banner](https://i.ibb.co/ZL8BNvC/standard.gif)
 
 - 🔭 I’m currently working on my ubuntu themed website
 - 🌱 I’m currently learning C
