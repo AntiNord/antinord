@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![banner](https://i.ibb.co/42YKh6z/standard.gif)
+![banner]https://i.ibb.co/ZL8BNvC/standard.gif)
 
-- 🔭 I’m currently working on Nord Detector
+- 🔭 I’m currently working on my ubuntu themed website
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on random projects
-- 🤔 I’m looking for help with nord.fail website
+- 🤔 I’m looking for help with the ubuntu themed website
 - 💬 Ask me about anything privacy related
-- 📫 How to reach me: contact@nord.fail
+- 📫 How to reach me: contact@DucksDont.dev
 - 😄 Pronouns: attack helicopter
-- ⚡ Fun fact: Nord will do the job to a regular person.
+- ⚡ Fun fact: My favourite animal is a panda
 
